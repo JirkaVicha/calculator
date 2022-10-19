@@ -13,7 +13,7 @@ body {
     background-color: rgb(92, 92, 237);
     display: flex;
     flex-direction: column;
-    max-width: 400px;
+    max-width: 380px;
     margin: 0px auto;
 }
 
@@ -23,7 +23,7 @@ body {
 
 .display .container {
     background-color: white;
-    max-width: 390px;
+    max-width: 380px;
     height: 60px;
     display: flex;
     flex-direction: row;
@@ -55,7 +55,7 @@ body {
 }
 
 button {
-    width: 85px;
+    width: 80px;
     height: 80px;
     border-style: none;
     margin-bottom: 10px;
